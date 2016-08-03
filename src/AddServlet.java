@@ -7,6 +7,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Created by Aleksey on 03.08.2016.
  */
+
 public class AddServlet extends HttpServlet {
 
 	private MessageList msgList = MessageList.getInstance();
